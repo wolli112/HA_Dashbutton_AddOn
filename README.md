@@ -2,6 +2,9 @@
 
 Mit diesem Add-On kannst du einen Amazon Dashbutton verwenden, um eine Automation in Home Assistant auszulösen.
 
+![IMG_7051](https://github.com/user-attachments/assets/20e73f56-74ae-40e4-b64a-c8baa8ef5b86)
+
+
 ## Konfiguration
 
 Im Reiter **Konfiguration** müssen folgende Werte definiert werden:
