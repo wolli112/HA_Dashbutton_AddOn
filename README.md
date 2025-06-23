@@ -16,3 +16,11 @@ Im Reiter **Konfiguration** müssen folgende Werte definiert werden:
 
 #
 **Das Add-On kann über die GitHub URL direkt im Add-on Store von Home Assistant als Repositorie eingefügt werden.** 
+
+<img width="435" alt="Repo" src="https://github.com/user-attachments/assets/a0bace26-45d9-4ce1-98c7-969b4b2228f7" />
+
+<img width="418" alt="Store" src="https://github.com/user-attachments/assets/a54e3691-818b-4308-86ac-a7380e8d80a8" />
+
+<img width="512" alt="AddOn" src="https://github.com/user-attachments/assets/d0289547-259b-4f43-aed5-0e13ae6b1e3b" />
+
+
