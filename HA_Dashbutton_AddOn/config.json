@@ -1,0 +1,30 @@
+{
+  "name": "HA Dashbutton Add-On",
+  "version": "1.0",
+  "slug": "dashbutton_addon",
+  "description": "Home Assistant Add-On um mit einem Amazon Dashbutton eine Automation zu starten",
+  "url": "https://github.com/wolli112/HA_Dashbutton_AddOn",
+  "codenotary": "wolli112@python-coding.net",
+  "icon": "icon.png",
+  "startup": "services",
+  "boot": "auto",
+  "options": {
+    "MAC": "00:00:00:00:00:00",
+    "HA_URL": "http://IP:8123",
+    "TOKEN": "token",
+    "ENTITY": "Entität"
+  },
+  "schema": {
+    "MAC": "str",
+    "HA_URL": "str",
+    "TOKEN": "str",
+    "ENTITY": "str"
+    },
+  "arch": ["amd64", "armv7", "aarch64", "armhf", "i386"],
+  "ingress": false,
+  "panel_icon": "mdi:rocket",
+  "host_network": true,
+  "privileged": ["NET_ADMIN", "NET_RAW"],
+  "full_access": false,
+  "homeassistant": "2025.6.0"
+}
